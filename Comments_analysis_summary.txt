@@ -1,0 +1,4 @@
+First i load the data and then i realize that only Column which was important was Comment_body
+So i performed little bit of EDA
+Then the most important function which will do sentiment analysis in which i have  done Prompt engineering(zero prompt)
+Although i am unable to use free APi i have used different different mail even with new mail id still not getting the free access but still i have written a code please check it out 
